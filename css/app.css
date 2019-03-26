@@ -5,29 +5,9 @@ body{
     left: 0;
     right: 0;   
 }
-
-#map{
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-}
 .full-height{
     height: 100%;
 }
 #sidebar{
     overflow: auto;
-}
-.dam{
-    color: #343638;
-    font-size: 10px
-}
-.dam-list-item{
-    cursor: pointer
-}
-.dam-list-item:hover{
-    border-color: cyan;
-    border-width: 4px;
-    font-weight: bold
 }
